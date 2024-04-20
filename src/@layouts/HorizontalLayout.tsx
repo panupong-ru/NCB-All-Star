@@ -31,7 +31,7 @@ const HorizontalLayout = (props: HorizontalLayoutProps) => {
         <div className={classnames(horizontalLayoutClasses.contentWrapper, 'flex flex-col is-full')}>
           {header || null}
           <LayoutContent>{children}</LayoutContent>
-          {footer || null}
+          {/* {footer || null} */}
         </div>
       </HorizontalNavProvider>
     </div>
