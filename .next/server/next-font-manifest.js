@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/bluegee/Documents/GitHub/NCB-All-Star/src/app/(dashboard)/layout\":[\"static/media/6a44acd4f1e705fc-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
